@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "Blank Template",
-    "slug": "react-native-expo-boilerplate",
+    "name": "expo-eslint-prettier-jest",
+    "slug": "expo-eslint-prettier-jest",
     "privacy": "public",
     "sdkVersion": "36.0.0",
     "platforms": [
